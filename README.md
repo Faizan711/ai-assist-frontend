@@ -1,4 +1,4 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+This is an AI powered Chrome extension for all your answers initialized [Plasmo extension](https://docs.plasmo.com/) project with TailwindCSS.
 
 ## Getting Started
 
