@@ -1,20 +1,18 @@
 import { useState } from "react"
 
+import "./style.css"
+
 function IndexPopup() {
   const [data, setData] = useState("")
 
   return (
     <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        padding: 16
-      }}>
+       className="h-500 w-500 p-10">
       <h2>
         Welcome to your
         <a href="https://www.plasmo.com" target="_blank">
           {" "}
-          Plasmo
+          Plasmo by MD FAIZAN
         </a>{" "}
         Extension!
       </h2>
