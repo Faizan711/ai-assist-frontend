@@ -7,7 +7,7 @@ function IndexPopup() {
 
   return (
     <div
-       className="h-500 w-500 p-10">
+       className="h-300 w-300 p-10">
       <h2>
         Welcome to your
         <a href="https://www.plasmo.com" target="_blank">
